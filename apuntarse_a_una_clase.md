@@ -1,0 +1,1 @@
+{% include 'git+https://github.com/catedu/google-classroom-2018.git/modulo_1_introduccion_a_google_classroom/19_apuntarse_a_una_clase.md' %}

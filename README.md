@@ -1,3 +1,3 @@
-# My Awesome Book
+# Módulo III Google Classroom
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Este módulo está extraído de parte del material del curso completo de [Google Classroom](https://catedu.gitbooks.io/google-classroom-2018/content/).

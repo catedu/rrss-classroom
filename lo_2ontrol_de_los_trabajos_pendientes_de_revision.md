@@ -1,0 +1,1 @@
+{% include 'git+https://github.com/catedu/google-classroom-2018.git/modulo_2_trabajo_basico_con_google_classroom/25_control_de_los_trabajos_pendientes_de_revision.md' %}

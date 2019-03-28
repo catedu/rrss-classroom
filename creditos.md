@@ -1,0 +1,1 @@
+{% include 'git+https://github.com/catedu/google-classroom-2018.git/creditos.md' %}
