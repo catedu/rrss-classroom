@@ -1,8 +1,9 @@
 # Summary
 
+* [RRSS en Educación](README.md)
+
 ## 1. LO PRIMERO
 
-* [RRSS en Educación](README.md)
 * [1.1 Ojo no es legal](ojo-no-es-legal.md)
 * [1.2. ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
 * [1.3. Riesgos](13-riesgos.md)
