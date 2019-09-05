@@ -7,3 +7,5 @@ Por lo tanto utilizaremos esta red social en el ámbito de divulgación por part
 Por ejemplo
 
 <a class="twitter-timeline" href="https://twitter.com/CpeeGloria?ref_src=twsrc%5Etfw">Tweets by CpeeGloria</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![](/assets/2019-09-05 23_03_28-Window.png)
