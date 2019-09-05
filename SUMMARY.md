@@ -1,20 +1,17 @@
 # Summary
 
-# 1.- IMPORTANTE : LO LEGAL
+## 2.1.- INTRODUCCIÓN TWITTER
 
-# 2.- REDES SOCIALES PARA EL DOCENTE/CENTRO
+* [Introduction](README.md)
+* [Google Classrom](google-classrom.md)
 
-##2.1.- INTRODUCCIÓN TWITTER
+## 2.2.- INTRODUCCIÓN FACEBOOK
 
-##2.2.- INTRODUCCIÓN FACEBOOK
+## 3.1.- INTRODUCCIÓN EDMODO
 
-#3.- REDES SOCIALES CON ALUMNOS
+## 3.2.- GOOGLE CLASSROOM
 
-##3.1.- INTRODUCCIÓN EDMODO
-
-##3.2.- GOOGLE CLASSROOM
-
-###3.2.1.- Introducción
+## 3.2.1.- Introducción
 
 * [1. ¿Por qué Google?](por_que_google.md)
 * [2. ¿Qué ofrece Google Classroom?](que_ofrece_google_classroom.md)
@@ -27,7 +24,7 @@
 * [9. Apuntarse a una clase](apuntarse_a_una_clase.md)
 * [Para saber más:](para_saber_mas.md)
 
-###3.2.2.- Trabajo básico
+## 3.2.2.- Trabajo básico
 
 * [Trabajo básico con Google Classroom](trabajo-basico.md)
 * [1. El apartado “Tablón” ](lo_el_apartado_tablon.md)
@@ -43,6 +40,4 @@
 ---
 
 * [Créditos](creditos.md)
-
-
 
