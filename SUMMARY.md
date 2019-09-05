@@ -3,13 +3,14 @@
 ## 2.1.- INTRODUCCIÓN TWITTER
 
 * [Introduction](README.md)
-* [Google Classrom](google-classrom.md)
 
 ## 2.2.- INTRODUCCIÓN FACEBOOK
 
 ## 3.1.- INTRODUCCIÓN EDMODO
 
-## 3.2.- GOOGLE CLASSROOM
+##[3.2.- GOOGLE CLASSROOM](google-classrom.md)
+
+
 
 ## 3.2.1.- Introducción
 
