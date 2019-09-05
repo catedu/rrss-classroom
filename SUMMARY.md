@@ -1,12 +1,12 @@
 # Summary
 
-## 2.1.- INTRODUCCIÓN TWITTER
+## 1. LO PRIMERO
 
 * [1.1. OJO: NO ES LEGAL](README.md)
 * [1.2. ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
 * [1.3. Riesgos](13-riesgos.md)
 
-## 2.2.- INTRODUCCIÓN FACEBOOK
+## 2 TWITTER
 
 ## 3.1.- INTRODUCCIÓN EDMODO
 
