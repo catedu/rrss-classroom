@@ -3,7 +3,7 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-
+* [No con los alumnos](no-con-los-alumnos.md)
 
 ## 1. LO PRIMERO
 
@@ -21,14 +21,11 @@
 * [2.6 Hashtag](hashtag.md)
 * [2.7 No con los alumnos](27-no-con-los-alumnos.md)
 
-
-
 ## 3 FACEBOOK
 
 * [3.1 Crea tu página](crea-tu-pagina.md)
 * [3.2 Difunde](difunde.md)
 * [3.3 Mira lo que tú quieres](mira-lo-que-tu-quieres.md)
-
 
 ## 3.2.- GOOGLE CLASSROOM
 
