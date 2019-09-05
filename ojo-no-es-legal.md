@@ -12,5 +12,8 @@ Pueden ser sin ninguna temática concreta **RRSS horizontales** como Facebook, T
 
 Sí, has leído bien: un menor de 13 años NO PUEDE TENER WHATSAPP por ejemplo.
 
+<iframe src="https://giphy.com/embed/atZII8NmbPGw0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/media-social-smartphone-atZII8NmbPGw0">via GIPHY</a></p>
+
+
 
 
