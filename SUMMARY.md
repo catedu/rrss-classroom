@@ -3,13 +3,15 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-* [No con los alumnos](no-con-los-alumnos.md)
+
 
 ## 1. LO PRIMERO
 
 * [1.1 Ojo no es legal](ojo-no-es-legal.md)
 * [1.2. ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
 * [1.3. Riesgos](13-riesgos.md)
+
+#RRSS HORIZONTALES QUE NO PARTICIPAN ALUMNOS
 
 ## 2 TWITTER
 
@@ -19,13 +21,15 @@
 * [2.4 Menciona](menciona.md)
 * [2.5 Retweet](retweet.md)
 * [2.6 Hashtag](hashtag.md)
-* [2.7 No con los alumnos](27-no-con-los-alumnos.md)
+* [2.7 Usos](27-no-con-los-alumnos.md)
 
 ## 3 FACEBOOK
 
 * [3.1 Crea tu página](crea-tu-pagina.md)
 * [3.2 Difunde](difunde.md)
 * [3.3 Mira lo que tú quieres](mira-lo-que-tu-quieres.md)
+* [3.4 Usos](no-con-los-alumnos.md)
+
 
 ## 3.2.- GOOGLE CLASSROOM
 
