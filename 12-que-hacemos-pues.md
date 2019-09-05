@@ -2,13 +2,13 @@
 
 Dos opciones:
 
-1. Usar las RRSS administradas y gestionadas por un adulto y si acceso de edición por parte de menores. 
+1. Usar las RRSS administradas y gestionadas por un adulto y si acceso de edición o interacción por parte de menores. 
 1. Usar RRSS supervisadas y adaptadas para usar en educación
 
 ##1.2.1 RRSS administradas por un adulto
 En este caso utilizaremos el ámbito docente o de centro, o sea, el profesor o centro que quiere usar una RRSS para exponer o divulgar información, material didáctico, noticias...
 
-Para estos casos hemos elegido tres RRSS en este curso:
+Para estos casos hemos elegido tres RRSS horizontales en este curso:
 
 * **Twitter** Es un microblog ideal para noticias y difusión rápida de eventos.
 * **Facebook** Permite entrar en una de las RRSS más amplias del mundo.
