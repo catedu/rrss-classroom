@@ -21,3 +21,5 @@ Estos dos vídeos son recomendables para que lo vean los niñ@s:
 {% youtube %} https://www.youtube.com/watch?v=t-x73w1N1os{% endyoutube %} 
 
 {% youtube %} https://www.youtube.com/watch?v=2TferQprZ0g{% endyoutube %} 
+
+Creemos que el tema de los riesgos en la red es importante. Para que podáis ampliar la información: **Pantallas amigas** [http://eps.aragon.es/pantallas_sanas.html](http://eps.aragon.es/pantallas_sanas.html)
