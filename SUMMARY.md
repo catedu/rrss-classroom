@@ -3,9 +3,6 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-* [Menciona](menciona.md)
-* [Retweet](retweet.md)
-* [Hashtag](hashtag.md)
 
 ## 1. LO PRIMERO
 
@@ -18,6 +15,11 @@
 * [2.1 Empezamos](empezamos.md)
 * [2.2 Tweets](tweets.md)
 * [2.3 Responder](responder.md)
+* [2.4 Menciona](menciona.md)
+* [2.5 Retweet](retweet.md)
+* [2.6 Hashtag](hashtag.md)
+
+
 
 ## 3.1.- INTRODUCCIÓN EDMODO
 
