@@ -2,13 +2,14 @@
 
 ## 2.1.- INTRODUCCIÓN TWITTER
 
-* [Introduction](README.md)
+* [1.1. OJO: NO ES LEGAL](README.md)
+* [1.2. ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
 
 ## 2.2.- INTRODUCCIÓN FACEBOOK
 
 ## 3.1.- INTRODUCCIÓN EDMODO
 
-##3.2.- GOOGLE CLASSROOM
+## 3.2.- GOOGLE CLASSROOM
 
 * [3.2.0. Introducción](google-classrom.md)
 * [3.2.1. ¿Por qué Google?](por_que_google.md)
@@ -21,7 +22,6 @@
 * [3.2.8. Creación de una clase como profesor](creacion_de_una_clase_como_profesor.md)
 * [3.2.9. Apuntarse a una clase](apuntarse_a_una_clase.md)
 * [ Para saber más:](para_saber_mas.md)
-
 * [3.2.10 Trabajo básico con Google Classroom](trabajo-basico.md)
 * [3.2.11. El apartado “Tablón” ](lo_el_apartado_tablon.md)
 * [3.2.12. El apartado “Personas”](lo_el_apartado_personas.md)
