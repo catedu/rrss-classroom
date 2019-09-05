@@ -24,7 +24,7 @@ En este caso **SI** que queremos que lo usen los alumnos. **POR LO TANTO TENEMOS
 
 Para ello hemos elegido dos RRSS verticales para usar en el aula:
 
-* **Google classroom** que con G Suite sí que se puede usar en los centros educativos `[[+info](https://support.google.com/a/answer/134628?hl=es)]. Esta RRSS está pensado más para trabajar como rutina de aula: Exposición del tema->Enunciado de trabajos->Entrega por parte del alumno->Corrección feed-back.
+* **Google classroom** que con **G Suite** sí que se puede usar en los centros educativos `[[+info](https://support.google.com/a/answer/134628?hl=es)]. Esta RRSS está pensado más para trabajar como rutina de aula: Exposición del tema->Enunciado de trabajos->Entrega por parte del alumno->Corrección feed-back.
 * **EDMODO** la RRSS por excelencia en educación. Esta RRSS está pensada como un sustituto del Facebook facilitando la relación triangular Docente-Alumnos-Padres aunque también permite los ejercicios - entrega de trabajos y evaluación.
 
 ####¿Qué ventajas tengo? (aparte de las 1.2.1)
