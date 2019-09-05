@@ -1,6 +1,6 @@
 #1.3 Riesgos
 
-Recuerda lo aprendido sobre la [legalidad](/README.md). Tenemos en nuestras aulas niños y adolescentes que tenemos que proteger. La seguridad y sobre todo la violación de la intimidad en Internet es cada vez más preocupante y especialmente a docentes y padres.
+Recuerda lo aprendido sobre la [legalidad](/README.md). Tenemos en nuestras aulas niños y adolescentes que tenemos que proteger. La seguridad y sobre todo la violación de la intimidad en Internet es cada vez más preocupante y especialmente en docentes y padres.
 
 No podemos aquí recoger todas las precauciones que hay que hacer pues es un tema que hay que estar **constantemente actualizado**.
 
