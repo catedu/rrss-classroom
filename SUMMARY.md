@@ -1,11 +1,6 @@
 # Summary
 
-## No sé
-
 * [RRSS en Educación](README.md)
-* [Empezamos](empezamos.md)
-* [Tweets](tweets.md)
-* [Responder](responder.md)
 
 ## 1. LO PRIMERO
 
@@ -14,6 +9,11 @@
 * [1.3. Riesgos](13-riesgos.md)
 
 ## 2 TWITTER
+
+* [2.1 Empezamos](empezamos.md)
+* [2.2 Tweets](tweets.md)
+* [2.3 Responder](responder.md)
+
 
 ## 3.1.- INTRODUCCIÓN EDMODO
 
