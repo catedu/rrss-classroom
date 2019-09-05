@@ -3,10 +3,7 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-* [Crea tu página](crea-tu-pagina.md)
-* [Difunde](difunde.md)
-* [Mira lo que tú quieres](mira-lo-que-tu-quieres.md)
-* 2.7 No con los alumnos
+
 
 ## 1. LO PRIMERO
 
@@ -22,8 +19,16 @@
 * [2.4 Menciona](menciona.md)
 * [2.5 Retweet](retweet.md)
 * [2.6 Hashtag](hashtag.md)
+* [2.7 No con los alumnos](27-no-con-los-alumnos.md)
 
-## 3.1.- INTRODUCCIÓN EDMODO
+
+
+## 3 FACEBOOK
+
+* [3.1 Crea tu página](crea-tu-pagina.md)
+* [3.2 Difunde](difunde.md)
+* [3.3 Mira lo que tú quieres](mira-lo-que-tu-quieres.md)
+
 
 ## 3.2.- GOOGLE CLASSROOM
 
