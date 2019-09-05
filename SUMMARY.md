@@ -6,6 +6,7 @@
 * [Crea tu página](crea-tu-pagina.md)
 * [Difunde](difunde.md)
 * [Mira lo que tú quieres](mira-lo-que-tu-quieres.md)
+* 2.7 No con los alumnos
 
 ## 1. LO PRIMERO
 
