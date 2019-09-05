@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/soportes-informaticos-para-la-formacion-del-profesorado.git/empezamos.md" %}
+{% include "git+https://github.com/catedu/soportes-informaticos-profesorado.git/empezamos.md" %}
