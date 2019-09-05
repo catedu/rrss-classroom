@@ -8,8 +8,9 @@
 
 ## 3.1.- INTRODUCCIÓN EDMODO
 
-##[3.2.- GOOGLE CLASSROOM](google-classrom.md)
+##3.2.- GOOGLE CLASSROOM
 
+* [3.2.0. Introducción](google-classrom.md)
 * [3.2.1. ¿Por qué Google?](por_que_google.md)
 * [3.2.2. ¿Qué ofrece Google Classroom?](que_ofrece_google_classroom.md)
 * [3.2.3. Google Classroom. ¿Por dónde empezar?](google_classroom_por_donde_empezar.md)
