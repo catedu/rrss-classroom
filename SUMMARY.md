@@ -3,18 +3,15 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-* [La comunicación](la-comunicacion.md)
-* [Nota importante](nota-importante.md)
-* [La comunicación](la-comunicacion.md)
 
 ## 1. LO PRIMERO
 
 * [1.1 Ojo no es legal](ojo-no-es-legal.md)
 * [1.2. ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
 * [1.3. Riesgos](13-riesgos.md)
-
+---
 ## RRSS HORIZONTALES QUE NO PARTICIPAN ALUMNOS
-
+---
 ## 2 TWITTER
 
 * [2.1 Empezamos](empezamos.md)
@@ -39,9 +36,9 @@
 * [4.3 ¿Qué es embeber?](que-es-embeber.md)
 * [4.4 ¿Cómo crear un blog?](como-crear-un-blog.md)
 * [4.5 ¿Cómo crear entradas?](como-crear-entradas.md)
-
+---
 ## RRSS VERTICALES QUE SI PARTICIPAN ALUMNOS
-
+---
 ## 5 EDMODO
 
 * [5.1 ¿Qué es Edmodo?](que-es-edmodo.md)
@@ -51,18 +48,19 @@
 * [5.5 Otros perfiles: Estudiante y padres](otros-perfiles-estudiante-y-padres.md)
 
 ## 6 GOOGLE CLASSROOM
-
-* [3.2.2. ¿Qué ofrece Google Classroom?](que_ofrece_google_classroom.md)
-* [3.2.3. Google Classroom. ¿Por dónde empezar?](google_classroom_por_donde_empezar.md)
-* [3.2.6. Acceso a Google Classroom desde Internet](acceso_a_google_classroom_desde_internet.md)
-* [3.2.8. Creación de una clase como profesor](creacion_de_una_clase_como_profesor.md)
-* [3.2.9. Apuntarse a una clase](apuntarse_a_una_clase.md)
-* [3.2.10 Trabajo básico con Google Classroom](trabajo-basico.md)
-* [3.2.11. El apartado “Tablón” ](lo_el_apartado_tablon.md)
-* [3.2.12. El apartado “Personas”](lo_el_apartado_personas.md)
-* [3.2.13. El apartado “Trabajo de clase”](lo_el_apartado_trabajo_de_clase.md)
-* [3.2.16. Archivar, recuperar o eliminar una clase](lo_archivar,_recuperar_o_eliminar_una_clase.md)
-* [3.2.17. La interfaz de alumno](lo_la_interfaz_de_alumno.md)
+* [6.1 Nota importante](nota-importante.md)
+* [6.2 ¿Qué ofrece Google Classroom?](que_ofrece_google_classroom.md)
+* [6.3 Google Classroom. ¿Por dónde empezar?](google_classroom_por_donde_empezar.md)
+* [6.4 Acceso a Google Classroom desde Internet](acceso_a_google_classroom_desde_internet.md)
+* [6.5 Creación de una clase como profesor](creacion_de_una_clase_como_profesor.md)
+* [6.6 Apuntarse a una clase](apuntarse_a_una_clase.md)
+* [6.7 Trabajo básico con Google Classroom](trabajo-basico.md)
+* [6.8. El apartado “Tablón” ](lo_el_apartado_tablon.md)
+* [6.9 El apartado “Personas”](lo_el_apartado_personas.md)
+* [6.10 El apartado “Trabajo de clase”](lo_el_apartado_trabajo_de_clase.md)
+* [6.11 Archivar, recuperar o eliminar una clase](lo_archivar,_recuperar_o_eliminar_una_clase.md)
+* [6.12 La interfaz de alumno](lo_la_interfaz_de_alumno.md)
+* [6.13 La comunicación](la-comunicacion.md)
 
 ---
 
