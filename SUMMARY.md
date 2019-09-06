@@ -3,11 +3,6 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-* [¿Qué es Edmodo?](que-es-edmodo.md)
-* [Registro y perfiles](registro-y-perfiles.md)
-* [Crear y gestionar clases y grupos](crear-y-gestionar-clases-y-grupos.md)
-* [Herramientas](herramientas.md)
-* [Otros perfiles: Estudiante y padres](otros-perfiles-estudiante-y-padres.md)
 
 ## 1. LO PRIMERO
 
@@ -44,7 +39,17 @@
 
 ## RRSS VERTICALES QUE SI PARTICIPAN ALUMNOS
 
-## 3.2.- GOOGLE CLASSROOM
+##5 EDMODO
+
+* [5.1 ¿Qué es Edmodo?](que-es-edmodo.md)
+* [5.2 Registro y perfiles](registro-y-perfiles.md)
+* [5.3 Crear y gestionar clases y grupos](crear-y-gestionar-clases-y-grupos.md)
+* [5.4 Herramientas](herramientas.md)
+* [5.5 Otros perfiles: Estudiante y padres](otros-perfiles-estudiante-y-padres.md)
+
+
+
+## 6 GOOGLE CLASSROOM
 
 * [3.2.0. Introducción](google-classrom.md)
 * [3.2.1. ¿Por qué Google?](por_que_google.md)
