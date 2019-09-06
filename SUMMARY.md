@@ -11,9 +11,10 @@
 * [1.2. ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
 * [1.3. Riesgos](13-riesgos.md)
 
-#RRSS HORIZONTALES QUE NO PARTICIPAN ALUMNOS
-
-## 2 TWITTER
+<hr />
+## RRSS HORIZONTALES QUE NO PARTICIPAN ALUMNOS
+<hr />
+##2 TWITTER
 
 * [2.1 Empezamos](empezamos.md)
 * [2.2 Tweets](tweets.md)
