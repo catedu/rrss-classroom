@@ -1,4 +1,4 @@
-#Blogger
+#¿Blog en RRSS?
 
 Coloquialmente un blog **no** es una RRSS pero técnicamente si se permiten la participación de otros sí que puede considerar RRSS. Debido a sus ventajas en educación creemos que es conveniente dar un rápido repaso.
 
@@ -6,7 +6,7 @@ Coloquialmente un blog **no** es una RRSS pero técnicamente si se permiten la p
 
 Podemos hacerlo en varios sitios, los dos principales son:
 
-* **Blogger** pensado para hacer blog con Google, es estable y muy sencillo de utilizar
+* **Blogger** pensado para hacer blog con Google, es estable y muy sencillo de utilizar, es la herramienta que nos centraremos en este curso.
 * **WordPress** tiene un formato flexible, permite formato tipo web y blog y está muy extendido, CATEDU puede proporcionar un espacio WP a los docentes, se pide aquí http://soporte.catedu.es/.
 
 ![](/assets/anete-lusina-zwsHjakE_iI-unsplash.jpg)
