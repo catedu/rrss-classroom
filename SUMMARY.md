@@ -3,8 +3,8 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-* La comunicación
-* Nota importante
+* [La comunicación](la-comunicacion.md)
+* [Nota importante](nota-importante.md)
 * [La comunicación](la-comunicacion.md)
 
 ## 1. LO PRIMERO
