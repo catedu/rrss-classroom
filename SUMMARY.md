@@ -7,6 +7,7 @@
 * [Registro y perfiles](registro-y-perfiles.md)
 * [Crear y gestionar clases y grupos](crear-y-gestionar-clases-y-grupos.md)
 * [Herramientas](herramientas.md)
+* [Otros perfiles: Estudiante y padres](otros-perfiles-estudiante-y-padres.md)
 
 ## 1. LO PRIMERO
 
