@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/curso-de-edmodo.git/chapter1.md" %}
+{% include "git+https://github.com/catedu/curso_de_edmodo.git/chapter1.md" %}
