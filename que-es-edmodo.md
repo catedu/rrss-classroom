@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/soportes-informaticos-profesorado.git/menciona.md" %}
+{% include "git+https://github.com/catedu/curso-de-edmodo.git/chapter1.md" %}
