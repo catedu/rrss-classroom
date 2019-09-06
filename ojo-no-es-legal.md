@@ -1,4 +1,4 @@
-# 1.1 OJO NO ES LEGAL !!!
+# OJO NO ES LEGAL !!!
 # EL AGUA CLARA Y EL CHOCOLATE ESPESO
 
 ##¿Qué se entiende por RRSS?
