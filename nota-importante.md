@@ -1,8 +1,8 @@
 #### Nota importante {#nota-importante}
 
-Este módulo está extradido del curso completo[Google Classroom en Aularagón](https://catedu.gitbooks.io/google-classroom-2018/content/).
+Este módulo está extradido del curso completo [Google Classroom en Aularagón](https://catedu.gitbooks.io/google-classroom-2018/content/).
 
-Se han omitido muchos elementos principales para el manejo de Google Classroom, luego creemos que es importante que los siguientes elementos**NO SE VAN A DAR EN ESTE CURSO**:
+Se han omitido muchos elementos principales para el manejo de Google Classroom, luego creemos que es importante que sepas los siguientes elementos **NO SE VAN A DAR EN ESTE CURSO** pues sólo nos vamos a centrar en su aspecto RRSS:
 
 * Elementos de introducción a Google Classrom
   * [¿Por qué Google?](https://catedu.gitbooks.io/google-classroom-2018/content/modulo_1_introduccion_a_google_classroom/11_por_que_google.html)
