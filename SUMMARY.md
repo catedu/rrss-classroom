@@ -5,6 +5,7 @@
 * [RRSS en Educación](README.md)
 * La comunicación
 * Nota importante
+* [La comunicación](la-comunicacion.md)
 
 ## 1. LO PRIMERO
 
@@ -51,7 +52,6 @@
 
 ## 6 GOOGLE CLASSROOM
 
-* [3.2.1. ¿Por qué Google?](por_que_google.md)
 * [3.2.2. ¿Qué ofrece Google Classroom?](que_ofrece_google_classroom.md)
 * [3.2.3. Google Classroom. ¿Por dónde empezar?](google_classroom_por_donde_empezar.md)
 * [3.2.6. Acceso a Google Classroom desde Internet](acceso_a_google_classroom_desde_internet.md)
