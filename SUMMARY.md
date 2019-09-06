@@ -7,6 +7,7 @@
 * [¿Qué es un blog?](que-es-un-blog.md)
 * [¿Qué es embeber?](que-es-embeber.md)
 * [Como crear un blog](como-crear-un-blog.md)
+* [Como crear entradas](como-crear-entradas.md)
 
 ## 1. LO PRIMERO
 

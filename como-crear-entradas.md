@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/soportes-informaticos-profesorado.git/como_crear_entradas.md" %} 
