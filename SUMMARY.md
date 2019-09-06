@@ -4,6 +4,7 @@
 
 * [RRSS en Educación](README.md)
 * [¿Qué es Edmodo?](que-es-edmodo.md)
+* [Registro y perfiles](registro-y-perfiles.md)
 
 ## 1. LO PRIMERO
 
