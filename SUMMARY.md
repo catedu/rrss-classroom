@@ -5,6 +5,7 @@
 * [RRSS en Educación](README.md)
 * [¿Qué es Edmodo?](que-es-edmodo.md)
 * [Registro y perfiles](registro-y-perfiles.md)
+* [Crear y gestionar clases y grupos](crear-y-gestionar-clases-y-grupos.md)
 
 ## 1. LO PRIMERO
 
