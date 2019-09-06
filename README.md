@@ -1,13 +1,13 @@
 #REDES SOCIALES EN EDUCACIÓN
 
-1 Introducción
+0 Introducción
 * RRSS HORIZONTALES QUE NO PARTICIPAN ALUMNOS
-    * 2 Twitter
-    * 3 Facebook
-    * 4 Blogger
+    * 1 Twitter
+    * 2 Facebook
+    * 3 Blogger
 * RRSS VERTICALES QUE SI PARTICIPAN ALUMNOS
-    * 5 Edmodo
-    * 6 Google Classroom
+    * 4 Edmodo
+    * 5 Google Classroom
   
 
 ![](/assets/neonbrand-I6wCDYW6ij8-unsplash.jpg)
