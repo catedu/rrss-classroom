@@ -6,6 +6,7 @@
 * [¿Qué es Edmodo?](que-es-edmodo.md)
 * [Registro y perfiles](registro-y-perfiles.md)
 * [Crear y gestionar clases y grupos](crear-y-gestionar-clases-y-grupos.md)
+* [Herramientas](herramientas.md)
 
 ## 1. LO PRIMERO
 
