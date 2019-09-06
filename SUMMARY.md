@@ -3,11 +3,6 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-* [¿Blog en RRSS ?](blogger.md)
-* [¿Qué es un blog?](que-es-un-blog.md)
-* [¿Qué es embeber?](que-es-embeber.md)
-* [Como crear un blog](como-crear-un-blog.md)
-* [Como crear entradas](como-crear-entradas.md)
 
 ## 1. LO PRIMERO
 
@@ -33,6 +28,18 @@
 * [3.2 Difunde](difunde.md)
 * [3.3 Mira lo que tú quieres](mira-lo-que-tu-quieres.md)
 * [3.4 Usos](no-con-los-alumnos.md)
+
+## 4 BLOGGER
+* [4.1 ¿Blog en RRSS ?](blogger.md)
+* [4.2 ¿Qué es un blog?](que-es-un-blog.md)
+* [4.3 ¿Qué es embeber?](que-es-embeber.md)
+* [4.4 ¿Cómo crear un blog?](como-crear-un-blog.md)
+* [4.5 ¿Cómo crear entradas?](como-crear-entradas.md)
+
+## RRSS VERTICALES QUE SI PARTICIPAN ALUMNOS
+
+
+
 
 ## 3.2.- GOOGLE CLASSROOM
 
