@@ -3,9 +3,8 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-* [0](0.md)
 
-##0. LO PRIMERO
+## 0. LO PRIMERO
 
 * [0.1 Ojo no es legal](ojo-no-es-legal.md)
 * [0.2. ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
