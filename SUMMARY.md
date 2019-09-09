@@ -3,15 +3,16 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
+* [0](0.md)
 
 ## 0. LO PRIMERO
 
 * [0.1 Ojo no es legal](ojo-no-es-legal.md)
 * [0.2. ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
 * [0.3. Riesgos](13-riesgos.md)
----
+
 ## RRSS HORIZONTALES QUE NO PARTICIPAN ALUMNOS
----
+
 ## 1 TWITTER
 
 * [1.1 Empezamos](empezamos.md)
@@ -36,9 +37,9 @@
 * [3.3 ¿Qué es embeber?](que-es-embeber.md)
 * [3.4 ¿Cómo crear un blog?](como-crear-un-blog.md)
 * [3.5 ¿Cómo crear entradas?](como-crear-entradas.md)
----
+
 ## RRSS VERTICALES QUE SI PARTICIPAN ALUMNOS
----
+
 ## 4 EDMODO
 
 * [4.1 ¿Qué es Edmodo?](que-es-edmodo.md)
@@ -48,6 +49,7 @@
 * [4.5 Otros perfiles: Estudiante y padres](otros-perfiles-estudiante-y-padres.md)
 
 ## 5 GOOGLE CLASSROOM
+
 * [5.1 Nota importante](nota-importante.md)
 * [5.2 ¿Qué ofrece Google Classroom?](que_ofrece_google_classroom.md)
 * [5.3 Google Classroom. ¿Por dónde empezar?](google_classroom_por_donde_empezar.md)
