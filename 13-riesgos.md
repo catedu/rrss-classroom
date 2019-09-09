@@ -14,7 +14,7 @@ No podemos aquí recoger todas las precauciones que hay que hacer pues es un tem
 
 Ten en cuenta que:
 * Las RRSS que se utilizan para la educación Edmodo y Google Classroom **SON CERRADOS**
-* Las RRSS de adultos Facebook, Twitter, blog **SON ABIERTOS** la privacidad en estos últimos no existe.
+* Las RRSS de adultos Facebook, Twitter, blog **SON ABIERTOS** la privacidad en estos últimos no existe (aunque existen algunas configuraciones que puedes restringir).
 
 Estos dos vídeos son recomendables para que lo vean los niñ@s:
 
