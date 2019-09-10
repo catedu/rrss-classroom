@@ -3,6 +3,7 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
+* [2.4 Grupos](24-grupos.md)
 
 ## 0. LO PRIMERO
 
