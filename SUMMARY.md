@@ -3,7 +3,6 @@
 ## RRSS
 
 * [RRSS en Educación](README.md)
-* [2.4 Grupos](24-grupos.md)
 
 ## 0. LO PRIMERO
 
@@ -28,7 +27,8 @@
 * [2.1 Crea tu página](crea-tu-pagina.md)
 * [2.2 Difunde](difunde.md)
 * [2.3 Mira lo que tú quieres](mira-lo-que-tu-quieres.md)
-* [2.4 Usos](no-con-los-alumnos.md)
+* [2.4 Grupos](24-grupos.md)
+* [2.5 Usos](no-con-los-alumnos.md)
 
 ## 3 BLOGGER
 
