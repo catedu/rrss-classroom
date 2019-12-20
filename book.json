@@ -1,1 +1,42 @@
-{"plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "Google Classroom", "authors": ["Isabel Pérez Pérez", "Ricardo Alonso Liarte"], "collaborators": [{"name": "_________", "edited": "_____________"}]}, "pluginsConfig": {"localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "edit-link": {"base": "https://github.com/catedu/google-classroom-2018/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "google-classroom-2018"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Google Classroom",
+    "authors": [
+      "Isabel Pérez Pérez",
+      "Ricardo Alonso Liarte"
+    ],
+    "collaborators": [
+      {
+        "name": "_________",
+        "edited": "_____________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/google-classroom-2018/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "google-classroom-2018"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
