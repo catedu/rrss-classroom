@@ -1,0 +1,1 @@
+{% include 'git+https://github.com/catedu/google-classroom-2018.git/modulo_1_introduccion_a_google_classroom/15_tareas_de_administracion.md' %}
