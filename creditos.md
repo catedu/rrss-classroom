@@ -1,8 +1,8 @@
 #Autores
 
-* [Créditos Twitter, Facebook, Blogger](https://catedu.gitbooks.io/soportes-informaticos-para-la-formacion-del-profe/content/creditos.html) 
-* [Créditos Edmodo](https://catedu.gitbooks.io/curso-de-edmodo/content/creditos.html)
-* [Créditos Google Classroom](https://catedu.gitbooks.io/google-classroom-2018/content/creditos.html)
+* [Créditos Twitter, Facebook, Blogger](https://catedu.github.io/soportes-informaticos-profesorado/creditos.html) 
+* [Créditos Edmodo](https://catedu.github.io/curso_de_edmodo/creditos.html)
+* [Créditos Google Classroom](https://catedu.github.io/google-classroom-2018/creditos.html)
 
 Coordinación y montaje: Javier Quintana Peiró 2019
 

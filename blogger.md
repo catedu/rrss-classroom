@@ -9,7 +9,7 @@ Podemos hacerlo en varios sitios, los dos principales son:
 * **Blogger** pensado para hacer blog con Google, es estable y muy sencillo de utilizar, es la herramienta que nos centraremos en este curso.
 * **WordPress** tiene un formato flexible, permite formato tipo web y blog y está muy extendido, CATEDU puede proporcionar un espacio WP a los docentes, se pide aquí http://soporte.catedu.es/.
 
-Evidentemente no podemos profundizar en Blogs, sólo vamos a dar unos principios básicos para romper el hielo, pero si de verdad quieres sacarle todo el partido a esta herramienta te recomendamos nuestros apuntes y curso [Aprendizaje colaborativo con los Blogs.](https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/)
+Evidentemente no podemos profundizar en Blogs, sólo vamos a dar unos principios básicos para romper el hielo, pero si de verdad quieres sacarle todo el partido a esta herramienta te recomendamos nuestros apuntes y curso [Aprendizaje colaborativo con los Blogs.](https://catedu.github.io/aprendizaje-colaborativo-con-blog/)
 
 ![](/assets/anete-lusina-zwsHjakE_iI-unsplash.jpg)
 
