@@ -7,8 +7,8 @@
 ## 0. LO PRIMERO
 
 * [0.1 Ojo no es legal](ojo-no-es-legal.md)
-* [0.2. ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
-* [0.3. Riesgos](13-riesgos.md)
+* [0.2 ¿Qué hacemos pues ?](12-que-hacemos-pues.md)
+* [0.3 Riesgos](13-riesgos.md)
 
 ## RRSS HORIZONTALES QUE NO PARTICIPAN ALUMNOS
 
@@ -57,7 +57,7 @@
 * [5.5 Creación de una clase como profesor](creacion_de_una_clase_como_profesor.md)
 * [5.6 Apuntarse a una clase](apuntarse_a_una_clase.md)
 * [5.7 Trabajo básico con Google Classroom](trabajo-basico.md)
-* [5.8. El apartado “Tablón” ](lo_el_apartado_tablon.md)
+* [5.8 El apartado “Tablón” ](lo_el_apartado_tablon.md)
 * [5.9 El apartado “Personas”](lo_el_apartado_personas.md)
 * [5.10 El apartado “Trabajo de clase”](lo_el_apartado_trabajo_de_clase.md)
 * [5.11 Archivar, recuperar o eliminar una clase](lo_archivar,_recuperar_o_eliminar_una_clase.md)
