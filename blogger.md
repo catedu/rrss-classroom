@@ -1,8 +1,8 @@
-#¿Blog en RRSS?
+# ¿Blog en RRSS?
 
 Coloquialmente un blog **no** es una RRSS pero técnicamente si se permiten la participación de otros sí que puede considerar RRSS. Debido a sus ventajas en educación creemos que es conveniente dar un rápido repaso.
 
-##¿dónde creo mi blog?
+## ¿dónde creo mi blog?
 
 Podemos hacerlo en varios sitios, los dos principales son:
 
