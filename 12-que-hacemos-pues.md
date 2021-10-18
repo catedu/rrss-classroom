@@ -1,4 +1,4 @@
-# ¿Qué hacemos pues?.
+# ¿Qué hacemos pues?
 
 Dos opciones:
 
